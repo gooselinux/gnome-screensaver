@@ -1,0 +1,11 @@
+--- gnome-screensaver-2.20.0/data/gnome-screensaver.schemas.in.orig	2007-10-29 15:02:52.000000000 -0400
++++ gnome-screensaver-2.20.0/data/gnome-screensaver.schemas.in	2007-10-29 15:05:29.000000000 -0400
+@@ -55,7 +55,7 @@
+       <owner>gnome-screensaver</owner>
+       <type>list</type>
+       <list_type>string</list_type>
+-      <default>[screensavers-system]</default>
++      <default>[blank-only]</default>
+       <locale name="C">
+         <short>Screensaver themes</short>
+         <long>

@@ -1,0 +1,12 @@
+<Menu>
+<Name>Preferences</Name>
+  <Menu>
+    <Name>Look and Feel</Name>
+    <Exclude>
+      <Filename>screensaver-properties.desktop</Filename>
+    </Exclude>
+    <Exclude>
+      <Filename>gnome-screensaver-properties.desktop</Filename>
+    </Exclude>
+  </Menu>
+</Menu>
